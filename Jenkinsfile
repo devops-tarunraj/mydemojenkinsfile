@@ -22,4 +22,3 @@ pipeline{
                  echo "build my jenkinsfile"
              }
         }
-
